@@ -49,9 +49,9 @@ $lang['menu_requests_overtime'] = 'Làm thêm giờ';
 $lang['menu_requests_list_extras'] = 'Danh sách các yêu cầu làm thêm giờ';
 $lang['menu_requests_request_extra'] = 'Yêu cầu thêm';
 
-$lang['menu_leaves_counters'] = 'Đếm';
+$lang['menu_leaves_counters'] = 'Trạng thái ngày nghỉ';
 $lang['menu_leaves_list_requests'] = 'Danh sách các yêu cầu nghỉ';
-$lang['menu_leaves_create_request'] = 'Yêu cầu nghỉ';
+$lang['menu_leaves_create_request'] = 'Yêu cầu ngày nghỉ';
 
 $lang['menu_calendar_title'] = 'Lịch';
 $lang['menu_calendar_year'] = 'Lịch theo năm';
@@ -59,5 +59,5 @@ $lang['menu_calendar_individual'] = 'Lịch của tôi';
 $lang['menu_calendar_workmates'] = 'Các đồng nghiệp của tôi';
 $lang['menu_calendar_collaborators'] = 'Cấp dưới của tôi';
 $lang['menu_calendar_department'] = 'Phòng ban';
-$lang['menu_calendar_organization'] = 'Toàn cầu';
+$lang['menu_calendar_organization'] = 'Toàn Công ty';
 $lang['menu_calendar_tabular'] = 'Bảng';

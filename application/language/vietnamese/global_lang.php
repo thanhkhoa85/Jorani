@@ -23,7 +23,7 @@ $lang['footer_link_go_top'] = 'Lên đầu tiên';
 $lang['footer_copyright_notice'] = '&copy; 2014 Jorani Authors';
 
 $lang['Requested'] = 'Đã yêu cầu';
-$lang['Planned'] = 'Kệ hoạch';
+$lang['Planned'] = 'Kế hoạch';
 $lang['Accepted'] = 'Được chấp nhận';
 $lang['Rejected'] = 'Bị từ chối';
 
@@ -74,7 +74,7 @@ $lang['department'] = 'Phòng ban';
 $lang['position'] = 'Vị trí';
 $lang['contract'] = 'Hợp đồng';
 $lang['day off'] = 'Ngày nghỉ';
-$lang['leave'] = 'nghỉ phép';
+$lang['leave'] = 'Nghỉ phép';
 
 $lang['All'] = 'All';
 $lang['OK'] = 'Chấp nhận';
